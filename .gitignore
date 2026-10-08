@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 运行时数据（隐私，勿提交）
+audio/
+materials/
+materials_data.json
+qa_history.md
+app.log
+test_audio/
+
+# 系统
+Thumbs.db
+.DS_Store
