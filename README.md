@@ -119,4 +119,3 @@ presenter-copilot/
 ## 隐私
 
 - 所有处理在本机完成：识别、翻译、回答生成均不联网
-- 你的材料、录音、问答记录保存在本地目录，请勿将 `materials_data.json`、`audio/`、`qa_history.md` 提交到公共仓库
